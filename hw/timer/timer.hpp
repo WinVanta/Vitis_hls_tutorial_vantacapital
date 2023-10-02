@@ -10,9 +10,6 @@
 #define MEM_REG_WR (1 << 1)
 
 
-
-
-
 class timer
 {
 public:
