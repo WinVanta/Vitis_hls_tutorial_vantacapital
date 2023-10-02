@@ -16,6 +16,8 @@
 class timer
 {
 public:
+
+private:
 };
 
 #endif
